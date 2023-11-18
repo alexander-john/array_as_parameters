@@ -39,6 +39,9 @@
  * determine the depth of each additional dimension.
  *
  *
+ * This program was written by Alexander John using information from source below.
+ *
+ * Source: https://cplusplus.com/doc/tutorial/arrays/
  */
 #include <iostream>
 using namespace std;
