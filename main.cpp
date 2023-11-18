@@ -1,4 +1,19 @@
 /*
+ * What you need:
+ * CLion IDE
+ *
+ * Step 1:
+ * Download Zip
+ *
+ * Step 2:
+ * Unzip
+ *
+ * Step 3:
+ * Open main.cpp in CLion
+ *
+ * Step 4:
+ * Done!
+ *
  * In C++, it is not possible to pass the entire block of memory represented by an array
  * to a function directly as an argument. But what can be passed instead is its address.
  * In practice, this has almost the same effect, and it is a much faster and more efficient
@@ -37,7 +52,6 @@
  * notice that the first brackets [] are left empty, while the following ones specify
  * sizes for their respective dimensions. This is necessary in order for the compiler to be able to
  * determine the depth of each additional dimension.
- *
  *
  * This program was written by Alexander John using information from source below.
  *
